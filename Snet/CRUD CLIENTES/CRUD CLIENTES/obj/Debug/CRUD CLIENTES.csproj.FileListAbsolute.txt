@@ -1,0 +1,68 @@
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\CRUD CLIENTES.dll.config
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\CRUD CLIENTES.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\CRUD CLIENTES.pdb
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\csc.exe
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\csc.exe.config
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\csc.rsp
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\csi.exe
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\csi.exe.config
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\csi.rsp
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.AppContext.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.Collections.Immutable.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.Console.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.Globalization.Calendars.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.IO.Compression.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.IO.FileSystem.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.Net.Http.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.Net.Sockets.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.Reflection.Metadata.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.ValueTuple.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.Xml.XPath.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\vbc.exe
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\vbc.exe.config
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\vbc.rsp
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\VBCSCompiler.exe
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\roslyn\VBCSCompiler.exe.config
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\EntityFramework.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\EntityFramework.SqlServer.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\System.Data.SQLite.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\System.Data.SQLite.EF6.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\System.Data.SQLite.Linq.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\EntityFramework.xml
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\EntityFramework.SqlServer.xml
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\System.Data.SQLite.xml
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\System.Data.SQLite.dll.config
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\obj\Debug\CRUD CLIENTES.csprojAssemblyReference.cache
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\obj\Debug\CRUD CLIENTES.csproj.CoreCompileInputs.cache
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\obj\Debug\CRUD CLIENTES.csproj.CopyComplete
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\obj\Debug\CRUD CLIENTES.dll
+C:\Snet\CRUD CLIENTES\CRUD CLIENTES\obj\Debug\CRUD CLIENTES.pdb
