@@ -4,14 +4,22 @@ namespace CRUD_CLIENTES.Views
 {
     //api de busca
     using API_CEP;
+    using CRUD_CLIENTES.DAO;
+    using CRUD_CLIENTES.Model;
+    using System.CodeDom;
+    using System.Data;
+    using System.Data.SQLite;
     using System.IO;
 
     public partial class WebForm1 : System.Web.UI.Page
     {
-        
+        DAOConexao conexao = new DAOConexao();
+        ModelCliente cliente = new ModelCliente();
+        DAOCliente daoCliente = new DAOCliente();
+
         protected void Page_Load(object sender, EventArgs e)
         {
-            
+            ListarClientes();
         }
 
         public void ConsultaCEp(string cep)
@@ -61,6 +69,51 @@ namespace CRUD_CLIENTES.Views
             {
                 lbErro.Text = "Cep não encontrado....."; 
             }
+
+        }
+
+
+        public void ListarClientes()
+        {
+            conexao.Conectar();
+
+            var  sql = "select * from tbcliente order by nome asc";
+
+            SQLiteDataAdapter dataAdapter = new SQLiteDataAdapter();
+
+            DataTable dt = new DataTable();
+
+            SQLiteCommand comando = new SQLiteCommand(sql, conexao.conexao);
+
+
+            dataAdapter.SelectCommand = comando;
+
+            dataAdapter.Fill(dt);
+
+            tbCliente.DataSource = dt;
+
+            tbCliente.DataBind();
+
+        }
+
+        protected void Cadastrar_Click(object sender, EventArgs e)
+        {
+            cliente.cep = txtCep.Text;
+            cliente.cidade = txtcidade.Text;
+            cliente.endereco = txtRua.Text;
+            cliente.nome = txtNome.Text;
+            cliente.numero = txtNumero.Text;
+            cliente.pais = txtPais.Text;
+            cliente.telefone = txtTelefone.Text;
+            cliente.bairro = txtBairro.Text;
+
+            daoCliente.InserirCliente(cliente);
+            ListarClientes();
+
+        }
+
+        protected void tbCliente_SelectedIndexChanged(object sender, EventArgs e)
+        {
 
         }
     }

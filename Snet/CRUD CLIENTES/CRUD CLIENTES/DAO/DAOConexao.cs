@@ -26,5 +26,11 @@ namespace CRUD_CLIENTES.DAO
 
         }
 
+        public void Desconectar()
+        {
+            conexao.Close();
+        }
+
+
     }
 }
