@@ -267,7 +267,9 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Reference.svcmap</DependentUpon>
     </Compile>
+    <Compile Include="DAO\DAOCliente.cs" />
     <Compile Include="DAO\DAOConexao.cs" />
+    <Compile Include="Model\ModelCliente.cs" />
     <Compile Include="Model\ModelUsuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Views\ViewCadastro.aspx.cs">
